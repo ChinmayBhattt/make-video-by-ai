@@ -1,0 +1,26 @@
+[Script Info]
+Title: Iman Gadzhi News Propaganda Captions
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Helvetica,52,&H00FFFFFF,&H000000FF,&H00000000,&HE0000000,-1,0,0,0,100,100,0,0,3,14,0,5,60,60,960,1
+Style: LowerThird,Helvetica,32,&H00FFFFFF,&H000000FF,&H00111827,&HE0000000,-1,0,0,0,100,100,0,0,3,10,0,2,60,60,120,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:28.44,LowerThird,,0,0,120,,THE NEWS IS PROPAGANDA 👁️
+Dialogue: 1,0:00:00.00,0:00:02.56,Default,,0,0,960,,IF YOU WANT TO {\c&H004444EF&}STAY POOR{\c&H00FFFFFF&},\NKEEP WATCHING THE NEWS.
+Dialogue: 1,0:00:02.56,0:00:05.40,Default,,0,0,960,,NEWS IS {\c&H0015CCFA&}PROPAGANDA{\c&H00FFFFFF&}
+Dialogue: 1,0:00:05.40,0:00:08.40,Default,,0,0,960,,SIMPLY THERE TO KEEP YOU {\c&H0015CCFA&}ARGUING{\c&H00FFFFFF&}\NABOUT THE SAME OLD SH*T.
+Dialogue: 1,0:00:08.40,0:00:11.76,Default,,0,0,960,,WHY DO YOU CARE ABOUT\N{\c&H00F8BD38&}QATAR{\c&H00FFFFFF&} AND THEIR LAWS?
+Dialogue: 1,0:00:11.76,0:00:14.48,Default,,0,0,960,,YOUR MOTHER {\c&H00F8BD38&}STILL WORKS{\c&H00FFFFFF&},\NSHE'S NOT RETIRED.
+Dialogue: 1,0:00:14.48,0:00:17.12,Default,,0,0,960,,SHE SHOULD BE ENJOYING HER\N{\c&H0015CCFA&}LAST FEW DECADES{\c&H00FFFFFF&} ON THIS EARTH.
+Dialogue: 1,0:00:17.12,0:00:20.16,Default,,0,0,960,,AND INSTEAD YOU SIT THERE AND\NWRITE {\c&H004444EF&}STUPID TWEETS{\c&H00FFFFFF&} ABOUT QATAR
+Dialogue: 1,0:00:20.16,0:00:23.50,Default,,0,0,960,,AND ALL OF THESE\NGEOPOLITICAL ISSUES...
+Dialogue: 1,0:00:23.50,0:00:26.96,Default,,0,0,960,,{\c&H004444EF&}SHUT THE F*CK UP{\c&H00FFFFFF&}, SHAME ON YOU,\N{\c&H0015CCFA&}KING, WAKE UP!{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.96,0:00:28.44,Default,,0,0,960,,YOU HAVE {\c&H005EC522&}REAL WORK{\c&H00FFFFFF&} TO DO.
+

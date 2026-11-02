@@ -1,10 +1,18 @@
-Prompt 1:
-Set up this folder as my AI video editing studio. Create these folders: References (videos whose style I like), Approved Videos (my finished edits), Editing Style, Brand Kit, Raw (one folder per video I want edited) and Exports. Add a short README in each one explaining what goes in it.
+# AI Video Editing Studio
 
+This folder is the home base for editing videos with Claude. Each subfolder has a README explaining what goes in it.
 
-Prompt 2:
-Install everything you need to edit my videos here: FFmpeg, Whisper (whisper.cpp), yt-dlp, Remotion and HyperFrames. Test each one on a short sample and tell me when everything works.Install everything you need to edit my videos here: FFmpeg, Whisper (whisper.cpp), yt-dlp, Remotion and HyperFrames. Test each one on a short sample and tell me when everything works.
+## Workflow
+1. Drop videos whose style you like into **References**.
+2. Drop your own finished edits into **Approved Videos**.
+3. Fill in **Editing Style** and **Brand Kit** once, then refine as you go.
+4. For each new video, make a folder inside **Raw** and put the footage in it.
+5. Finished edits land in **Exports**. Move the ones you love into **Approved Videos** so the style keeps improving.
 
-
-Prompt 3:
-Edit the video in Raw/Claude Video Editing Workflow. First study References and Approved Videos (pull a frame every second with FFmpeg and look at them) and save my style to Brand Kit/brand-kit.md. Then analyse the A-roll and assets, make all the cuts, and build a storyboard dashboard: one card per beat with captions, B-roll and assets, plus Approve, Reject and Feedback.
+## Folders
+- `References/`: style inspiration
+- `Approved Videos/`: your finished, signed-off edits
+- `Editing Style/`: written rules for how your edits look and feel
+- `Brand Kit/`: logos, fonts, colors, music, intro/outro
+- `Raw/`: one subfolder per video to be edited
+- `Exports/`: finished renders

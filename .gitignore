@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+models/*.bin
+test_output/
+public/*.mp4
+*.aiff
+/*.mp4

@@ -1,0 +1,20 @@
+{
+  "name": "ai-video-studio",
+  "version": "1.0.0",
+  "description": "This folder is the home base for editing videos with Claude. Each subfolder has a README explaining what goes in it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/cli": "^4.0.540",
+    "hyperframes": "^0.9.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.540"
+  }
+}
